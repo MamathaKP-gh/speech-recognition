@@ -1,2 +1,2 @@
 # speech-recognition
-Audio Channel 
+Project to process multichannel audio file speech-recognition 
